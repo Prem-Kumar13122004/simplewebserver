@@ -41,7 +41,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![OUTPUT](./image/gitup EXP01.png)
+![OUTPUT](./image/out.png)
 
 ## RESULT:
 Success
